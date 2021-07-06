@@ -1,0 +1,394 @@
+ID,Title,#,Watched,Year,Genre,Runtime,Tier
+6,Black Mirror,3.0,2018-01-07,2013.0,Science Fiction,165.0,A
+8,Black Mirror,2.0,2018-01-08,2017.0,Science Fiction,110.0,B
+15,Archer,2.0,2018-01-16,2009.0,Comedy,48.0,B
+18,Archer,1.0,2018-01-17,2009.0,Comedy,24.0,B
+19,The End of the Fucking World,1.0,2018-01-17,2018.0,Comedy,24.0,A
+25,Big Mouth,1.0,2018-01-21,2017.0,Comedy,30.0,B
+26,Big Mouth,1.0,2018-01-21,2017.0,Comedy,30.0,B
+29,SMILF,2.0,2018-02-01,2017.0,Comedy,60.0,A
+33,The End of the Fucking World,3.0,2018-02-10,2018.0,Comedy,72.0,A
+41,Rick and Morty,1.0,2018-02-21,2013.0,Comedy,22.0,A
+45,Last Week Tonight,1.0,2018-02-26,2018.0,News,25.0,A
+47,Rick and Morty,2.0,2018-03-02,2013.0,Comedy,44.0,A
+49,Atlanta,1.0,2018-03-03,2016.0,Comedy,30.0,A
+50,Rick and Morty,2.0,2018-03-06,2013.0,Comedy,44.0,A
+51,American Vandal,8.0,2018-03-07,2017.0,Comedy,280.0,A
+52,Atlanta,1.0,2018-03-09,2016.0,Comedy,30.0,A
+53,American Vandal,1.0,2018-03-09,2017.0,Comedy,35.0,A
+57,The End of the Fucking World,1.0,2018-03-10,2018.0,Comedy,24.0,A
+58,My Next Guest Needs No Introduction,1.0,2018-03-10,2018.0,News,44.0,A
+60,Full Metal Alchemist: Brotherhood,1.0,2018-03-14,2009.0,Fantasy,18.0,S
+62,Full Metal Alchemist: Brotherhood,4.0,2018-03-15,2009.0,Fantasy,72.0,S
+64,Full Metal Alchemist: Brotherhood,8.0,2018-03-19,2009.0,Fantasy,144.0,S
+65,Full Metal Alchemist: Brotherhood,8.0,2018-03-20,2009.0,Fantasy,144.0,S
+66,Full Metal Alchemist: Brotherhood,8.0,2018-03-21,2009.0,Fantasy,144.0,S
+67,Family Guy,1.0,2018-03-22,1999.0,Comedy,23.0,B
+68,The Standups,1.0,2018-03-22,2018.0,Stand Up,30.0,A
+69,Atlanta,1.0,2018-03-23,2016.0,Comedy,30.0,A
+72,Silicon Valley,1.0,2018-03-26,2018.0,Comedy,35.0,B
+75,Santa Clarita Diet,3.0,2018-03-28,2017.0,Comedy,90.0,S
+76,Santa Clarita Diet,7.0,2018-03-29,2017.0,Comedy,210.0,S
+77,Santa Clarita Diet,5.0,2018-03-29,2017.0,Comedy,150.0,S
+78,Santa Clarita Diet,5.0,2018-03-30,2017.0,Comedy,150.0,S
+89,Crashing,12.0,2018-04-12,2016.0,Comedy,276.0,S
+90,Atlanta,1.0,2018-04-13,2016.0,Comedy,30.0,A
+91,Legion,1.0,2018-04-13,2018.0,Science Fiction,50.0,A
+94,BoJack Horseman,1.0,2018-04-15,2014.0,Comedy,25.0,A
+95,Killing Eve,1.0,2018-04-16,2018.0,Crime,50.0,A
+96,Silicon Valley,1.0,2018-04-16,2018.0,Comedy,35.0,B
+97,BoJack Horseman,1.0,2018-04-16,2014.0,Comedy,25.0,A
+98,Barry,2.0,2018-04-17,2018.0,Comedy,60.0,A
+99,BoJack Horseman,1.0,2018-04-17,2014.0,Comedy,25.0,A
+100,BoJack Horseman,1.0,2018-04-18,2014.0,Comedy,25.0,A
+101,BoJack Horseman,2.0,2018-04-19,2014.0,Comedy,50.0,A
+102,Black Mirror,1.0,2018-04-19,2016.0,Comedy,55.0,A
+103,BoJack Horseman,7.0,2018-04-20,2014.0,Comedy,175.0,A
+104,BoJack Horseman,3.0,2018-04-21,2014.0,Comedy,75.0,A
+105,BoJack Horseman,3.0,2018-04-21,2014.0,Comedy,75.0,A
+107,Killing Eve,1.0,2018-04-23,2018.0,Crime,50.0,A
+108,Silicon Valley,1.0,2018-04-23,2018.0,Comedy,35.0,B
+109,Barry,1.0,2018-04-23,2018.0,Comedy,30.0,A
+110,BoJack Horseman,4.0,2018-04-24,2014.0,Comedy,100.0,A
+111,BoJack Horseman,3.0,2018-04-25,2014.0,Comedy,75.0,A
+112,BoJack Horseman,5.0,2018-04-26,2014.0,Comedy,125.0,A
+114,Barry,1.0,2018-04-27,2018.0,Comedy,30.0,A
+115,Blackish,1.0,2018-04-27,2017.0,Comedy,22.0,B
+117,BoJack Horseman,4.0,2018-04-28,2014.0,Comedy,100.0,A
+120,Black Mirror,1.0,2018-04-30,2016.0,Comedy,55.0,B
+121,John Mulaney: Kid Gorgeous at Radio City,1.0,2018-05-06,2018.0,Stand Up,50.0,A
+122,John Mulaney: Comeback Kid,1.0,2018-05-09,2017.0,Stand Up,50.0,A
+128,Atlanta,1.0,2018-05-16,2016.0,Comedy,30.0,A
+131,Rick and Morty,1.0,2018-05-17,2013.0,Comedy,22.0,A
+132,Black Mirror,1.0,2018-05-18,2011.0,Science Fiction,55.0,B
+136,Killing Eve,1.0,2018-05-21,2018.0,Crime,50.0,A
+137,Silicon Valley,1.0,2018-05-22,2018.0,Comedy,35.0,B
+139,Archer,2.0,2018-05-24,2009.0,Comedy,48.0,B
+140,Archer,1.0,2018-05-25,2009.0,Comedy,24.0,B
+141,Archer,1.0,2018-05-27,2009.0,Comedy,24.0,B
+142,Archer,1.0,2018-06-06,2009.0,Comedy,24.0,B
+143,Trollhunters,8.0,2018-06-06,2016.0,Adventure,176.0,B
+145,Trollhunters,17.0,2018-06-08,2016.0,Adventure,374.0,B
+146,Crashing,4.0,2018-06-09,2016.0,Comedy,92.0,S
+147,Insecure,1.0,2018-06-10,2018.0,Comedy,35.0,B
+149,Archer,1.0,2018-06-12,2009.0,Comedy,24.0,B
+150,Easy,6.0,2018-06-13,2016.0,Drama,240.0,A
+153,Easy,1.0,2018-06-14,2016.0,Drama,40.0,A
+156,Archer,1.0,2018-06-15,2009.0,Comedy,24.0,A
+157,Easy,1.0,2018-06-16,2016.0,Drama,40.0,A
+158,Atlanta,2.0,2018-06-19,2016.0,Comedy,60.0,A
+161,Killing Eve,1.0,2018-06-20,2018.0,Crime,50.0,A
+162,Killing Eve,1.0,2018-06-21,2018.0,Crime,50.0,A
+164,Killing Eve,1.0,2018-06-25,2018.0,Crime,50.0,A
+167,Killing Eve,1.0,2018-06-27,2018.0,Crime,50.0,A
+170,Archer,1.0,2018-06-28,2009.0,Comedy,24.0,A
+171,Killing Eve,1.0,2018-06-28,2018.0,Crime,50.0,A
+173,Killing Eve,3.0,2018-06-29,2018.0,Crime,150.0,A
+174,Archer,1.0,2018-06-29,2009.0,Comedy,24.0,B
+176,Black Mirror,1.0,2018-06-30,2011.0,Science Fiction,55.0,B
+177,Barry,1.0,2018-07-02,2018.0,Comedy,30.0,A
+180,GLOW,1.0,2018-07-03,2017.0,Comedy,40.0,B
+182,Archer,1.0,2018-07-05,2009.0,Comedy,24.0,B
+184,Chewing Gum,2.0,2018-07-07,2015.0,Comedy,50.0,A
+187,The Good Place,2.0,2018-07-10,2016.0,Comedy,44.0,A
+188,The Good Place,9.0,2018-07-11,2016.0,Comedy,198.0,A
+190,You Me Her,6.0,2018-07-15,2016.0,Comedy,180.0,B
+191,You Me Her,12.0,2018-07-16,2016.0,Comedy,360.0,B
+192,You Me Her,12.0,2018-07-17,2016.0,Comedy,360.0,B
+193,Queer Eye,2.0,2018-07-19,2018.0,Reality,90.0,A
+194,Sword Art Online,5.0,2018-07-19,2012.0,Adventure,115.0,A
+203,American Vandal,3.0,2018-07-31,2017.0,Comedy,105.0,A
+204,American Vandal,5.0,2018-08-01,2017.0,Comedy,175.0,A
+207,Brooklyn Nine Nine,2.0,2018-08-03,2013.0,Comedy,44.0,B
+210,Brooklyn Nine Nine,2.0,2018-08-06,2013.0,Comedy,44.0,B
+211,Brooklyn Nine Nine,4.0,2018-08-07,2013.0,Comedy,88.0,B
+214,Brooklyn Nine Nine,2.0,2018-08-08,2013.0,Comedy,44.0,B
+219,American Vandal,2.0,2018-08-17,2017.0,Comedy,70.0,A
+220,Disenchanted,3.0,2018-08-17,2018.0,Comedy,90.0,C
+221,BoJack Horseman,2.0,2018-08-18,2014.0,Comedy,50.0,A
+228,American Vandal,6.0,2018-09-18,2017.0,Comedy,210.0,S
+229,BoJack Horseman,3.0,2018-09-19,2014.0,Comedy,75.0,A
+230,BoJack Horseman,2.0,2018-09-20,2014.0,Comedy,50.0,A
+231,BoJack Horseman,4.0,2018-09-21,2014.0,Comedy,100.0,A
+234,Maniac,3.0,2018-09-22,2018.0,Comedy,180.0,B
+235,Maniac,4.0,2018-09-23,2018.0,Comedy,240.0,B
+237,BoJack Horseman,5.0,2018-09-24,2014.0,Comedy,125.0,A
+239,Big Mouth,2.0,2018-10-07,2017.0,Comedy,60.0,B
+241,Doctor Who,1.0,2018-10-09,2005.0,Science Fiction,50.0,A
+242,Brooklyn Nine Nine,1.0,2018-10-10,2013.0,Comedy,22.0,B
+249,American Vandal,1.0,2018-10-23,2017.0,Comedy,35.0,A
+250,Big Mouth,3.0,2018-10-24,2017.0,Comedy,90.0,B
+251,American Vandal,4.0,2018-10-24,2017.0,Comedy,140.0,A
+253,Big Mouth,5.0,2018-10-26,2017.0,Comedy,150.0,B
+254,The Chilling Adventures of Sabrina,1.0,2018-10-29,2018.0,Comedy,55.0,C
+255,Final Space,1.0,2018-11-04,2018.0,Comedy,21.0,B
+259,Final Space,1.0,2018-11-10,2018.0,Comedy,21.0,B
+261,Final Space,1.0,2018-11-16,2018.0,Comedy,21.0,B
+262,Paradise PD,2.0,2018-11-18,2018.0,Comedy,50.0,C
+281,Black Mirror,1.0,2019-01-06,2018.0,Science Fiction,55.0,C
+312,Black Mirror,1.0,2019-07-01,2019.0,Science Fiction,55.0,B
+354,BoJack Horseman,1.0,2020-02-01,2014.0,Comedy,25.0,S
+356,The Mandalorian,2.0,2020-02-01,2019.0,Science Fiction,80.0,S
+357,BoJack Horseman,5.0,2020-02-02,2014.0,Comedy,125.0,S
+358,Harley Quinn,2.0,2020-02-02,2019.0,Comedy,46.0,S
+359,Nora from Queens,1.0,2020-02-03,2020.0,Comedy,30.0,A
+360,Santa Clarita Diet,1.0,2020-02-05,2017.0,Comedy,30.0,S
+364,Community,1.0,2020-02-15,2009.0,Comedy,22.0,A
+365,Community,3.0,2020-02-16,2009.0,Comedy,66.0,A
+366,Archer,2.0,2020-02-16,2009.0,Comedy,48.0,A
+367,Harley Quinn,1.0,2020-02-17,2019.0,Comedy,23.0,A
+368,Community,2.0,2020-02-18,2009.0,Comedy,44.0,A
+369,Rick and Morty,1.0,2020-02-19,2013.0,Science Fiction,22.0,A
+372,BoJack Horseman,1.0,2020-02-22,2014.0,Comedy,25.0,A
+375,I Am Not Okay With This,7.0,2020-02-28,2020.0,Drama,175.0,A
+376,Archer,2.0,2020-02-28,2009.0,Comedy,48.0,A
+380,Archer,3.0,2020-03-13,2009.0,Comedy,72.0,A
+381,Archer,1.0,2020-03-15,2009.0,Comedy,24.0,A
+382,Archer,2.0,2020-03-17,2009.0,Comedy,48.0,A
+383,Feel Good,2.0,2020-03-20,2020.0,Comedy,50.0,A
+384,Shingeki No Kyojin,7.0,2020-03-20,2013.0,Fantasy,161.0,A
+385,Feel Good,4.0,2020-03-21,2020.0,Comedy,100.0,A
+386,Shingeki No Kyojin,13.0,2020-03-21,2013.0,Fantasy,299.0,A
+387,Archer,4.0,2020-03-24,2009.0,Comedy,96.0,A
+388,Archer,2.0,2020-03-25,2009.0,Comedy,48.0,A
+389,Archer,3.0,2020-03-26,2009.0,Comedy,72.0,A
+390,Brooklyn Nine Nine,2.0,2020-03-27,2013.0,Comedy,44.0,A
+391,Brooklyn Nine Nine,1.0,2020-03-28,2013.0,Comedy,22.0,A
+393,Shingeki No Kyojin,7.0,2020-03-28,2013.0,Comedy,161.0,A
+394,Beastars,1.0,2020-03-29,2016.0,Drama,23.0,A
+395,Tiger King,2.0,2020-03-29,2020.0,Documentary,90.0,A
+396,Shingeki No Kyojin,1.0,2020-03-29,2013.0,Fantasy,23.0,A
+397,Tiger King,3.0,2020-03-30,2020.0,Documentary,135.0,A
+398,Shingeki No Kyojin,7.0,2020-03-31,2013.0,Fantasy,161.0,A
+399,Shingeki No Kyojin,4.0,2020-04-01,2013.0,Fantasy,92.0,A
+401,Shingeki No Kyojin,2.0,2020-04-04,2013.0,Fantasy,46.0,A
+403,Tiger King,1.0,2020-04-12,2020.0,Documentary,45.0,A
+404,Konosuba,4.0,2020-04-12,2016.0,Comedy,92.0,A
+405,Brooklyn Nine Nine,1.0,2020-04-13,2013.0,Comedy,22.0,A
+407,Girl's Last Tour,1.0,2020-04-15,2017.0,Comedy,23.0,A
+409,Konosuba,2.0,2020-04-20,2016.0,Comedy,46.0,A
+410,Konosuba,2.0,2020-04-21,2016.0,Comedy,46.0,A
+411,Konosuba,3.0,2020-04-22,2016.0,Comedy,69.0,A
+412,Mob Psycho 100,7.0,2020-04-22,2016.0,Science Fiction,161.0,A
+413,Mob Psycho 100,6.0,2020-04-23,2016.0,Science Fiction,138.0,A
+414,Vinland Saga,4.0,2020-04-23,2019.0,Drama,92.0,A
+415,Vinland Saga,10.0,2020-04-24,2019.0,Drama,230.0,A
+417,Vinland Saga,11.0,2020-04-25,2019.0,Drama,253.0,A
+421,Harley Quinn,1.0,2020-04-30,2019.0,Comedy,23.0,A
+424,Dave,1.0,2020-05-02,2020.0,Comedy,28.0,A
+427,Chernobyl,1.0,2020-05-06,2019.0,Drama,65.0,A
+428,Chernobyl,1.0,2020-05-07,2019.0,Drama,65.0,A
+429,Rick and Morty,1.0,2020-05-07,2013.0,Science Fiction,22.0,A
+430,Chernobyl,1.0,2020-05-08,2019.0,Drama,65.0,A
+431,Rick and Morty,1.0,2020-05-09,2013.0,Science Fiction,22.0,A
+433,Miss Kobayashi's Dragon Maid,1.0,2020-05-09,2017.0,Comedy,23.0,A
+434,Chernobyl,1.0,2020-05-12,2019.0,Drama,65.0,A
+436,Rick and Morty,1.0,2020-05-13,2013.0,Science Fiction,22.0,A
+437,Chernobyl,1.0,2020-05-14,2019.0,Drama,65.0,A
+439,Rick and Morty,1.0,2020-05-14,2013.0,Science Fiction,22.0,A
+440,Dirk Gently's Holistic Detective Agency,1.0,2020-05-15,2016.0,Crime,54.0,A
+441,Santa Clarita Diet,1.0,2020-05-15,2017.0,Comedy,30.0,A
+443,Dark,1.0,2020-05-16,2017.0,Science Fiction,55.0,A
+445,Rick and Morty,1.0,2020-05-17,2013.0,Science Fiction,22.0,A
+446,Solar Opposites,1.0,2020-05-19,2020.0,Science Fiction,25.0,A
+447,Rick and Morty,1.0,2020-05-20,2013.0,Science Fiction,22.0,A
+448,Rick and Morty,1.0,2020-05-27,2013.0,Science Fiction,22.0,A
+450,Solar Opposites,1.0,2020-05-28,2020.0,Science Fiction,25.0,A
+451,Solar Opposites,1.0,2020-05-30,2020.0,Science Fiction,25.0,A
+452,Rick and Morty,1.0,2020-06-03,2013.0,Science Fiction,22.0,A
+454,I Am Not Okay With This,1.0,2020-06-18,2020.0,Drama,25.0,A
+455,I Am Not Okay With This,1.0,2020-06-19,2020.0,Drama,25.0,A
+457,Harley Quinn,12.0,2020-06-25,2019.0,Comedy,276.0,A
+458,Harley Quinn,1.0,2020-06-26,2019.0,Comedy,23.0,A
+461,Close Enough,14.0,2020-07-10,2020.0,Comedy,336.0,A
+463,Close Enough,1.0,2020-07-11,2020.0,Comedy,24.0,A
+464,Dark,1.0,2020-07-12,2017.0,Science Fiction,55.0,A
+465,Rick and Morty,1.0,2020-07-13,2013.0,Science Fiction,22.0,A
+468,Rick and Morty,1.0,2020-07-21,2013.0,Science Fiction,22.0,A
+469,Archer,3.0,2020-07-21,2009.0,Comedy,72.0,A
+474,Star Trek Lower Decks,2.0,2020-08-14,2020.0,Comedy,50.0,A
+476,Star Trek Lower Decks,1.0,2020-08-20,2020.0,Comedy,25.0,A
+479,Hoops,1.0,2020-08-22,2020.0,Comedy,25.0,A
+481,Hoops,2.0,2020-08-23,2020.0,Comedy,50.0,A
+482,Rick and Morty,1.0,2020-08-24,2013.0,Science Fiction,22.0,A
+483,Hoops,1.0,2020-08-26,2020.0,Comedy,25.0,A
+484,Star Trek Lower Decks,1.0,2020-08-27,2020.0,Science Fiction,25.0,A
+485,Star Trek Lower Decks,1.0,2020-09-11,2020.0,Science Fiction,25.0,A
+489,Star Trek Lower Decks,1.0,2020-09-17,2020.0,Comedy,25.0,A
+490,Fargo,2.0,2020-09-17,2017.0,Crime,100.0,S
+491,Vinland Saga,6.0,2020-09-17,2019.0,Drama,138.0,S
+492,Vinland Saga,3.0,2020-09-18,2019.0,Drama,69.0,S
+497,Star Trek Lower Decks,1.0,2020-10-02,2020.0,Comedy,25.0,A
+498,Ted Lasso,1.0,2020-10-02,2020.0,Comedy,30.0,A
+499,Star Trek Lower Decks,1.0,2020-10-09,2020.0,Comedy,25.0,A
+500,Rick and Morty,2.0,2020-10-10,2013.0,Science Fiction,44.0,A
+501,Archer,2.0,2020-10-11,2009.0,Comedy,48.0,A
+503,Archer,1.0,2020-10-29,2009.0,Comedy,24.0,A
+504,Fargo,2.0,2020-11-04,2020.0,Crime,100.0,A
+505,Fargo,2.0,2020-11-05,2020.0,Crime,100.0,A
+506,Fargo,2.0,2020-11-07,2020.0,Crime,100.0,A
+507,Shingeki No Kyojin,2.0,2020-12-03,2015.0,Fantasy,46.0,A
+508,Shingeki No Kyojin,7.0,2020-12-04,2015.0,Fantasy,161.0,S
+509,Shingeki No Kyojin,2.0,2020-12-07,2020.0,Fantasy,46.0,A
+513,Shingeki No Kyojin,1.0,2020-12-14,2020.0,Fantasy,23.0,A
+514,Shingeki No Kyojin,13.0,2020-12-18,2015.0,Fantasy,299.0,A
+515,Shingeki No Kyojin,4.0,2020-12-19,2015.0,Fantasy,92.0,A
+516,Shingeki No Kyojin,2.0,2020-12-20,2018.0,Fantasy,46.0,A
+517,Demon Slayer,7.0,2020-12-21,2019.0,Fantasy,161.0,A
+518,Demon Slayer,5.0,2020-12-22,2019.0,Fantasy,115.0,A
+519,Demon Slayer,2.0,2020-12-24,2019.0,Fantasy,46.0,A
+520,Shingeki No Kyojin,6.0,2020-12-24,2015.0,Fantasy,138.0,A
+521,Shingeki No Kyojin,3.0,2020-12-25,2015.0,Fantasy,69.0,A
+522,Shingeki No Kyojin,5.0,2020-12-26,2015.0,Fantasy,115.0,S
+523,Rick and Morty,1.0,2020-12-29,2013.0,Comedy,22.0,S
+526,Shingeki No Kyojin,1.0,2021-01-01,2021.0,Fantasy,23.0,S
+527,Shingeki No Kyojin,1.0,2021-01-10,2021.0,Fantasy,23.0,S
+530,The Promised Neverland,2.0,2021-01-15,2019.0,Horror,46.0,B
+532,Family Guy,1.0,2021-01-20,1999.0,Comedy,23.0,B
+534,Shingeki No Kyojin,8.0,2021-01-23,2019.0,Fantasy,184.0,S
+535,Family Guy,1.0,2021-01-25,1999.0,Comedy,23.0,B
+536,Rick and Morty,2.0,2021-01-25,2013.0,Science Fiction,44.0,A
+537,Shingeki No Kyojin,2.0,2021-01-25,2021.0,Fantasy,46.0,S
+540,Veep,2.0,2021-01-27,2012.0,Comedy,56.0,A
+542,Family Guy,9.0,2021-01-28,1999.0,Comedy,207.0,B
+543,Archer,6.0,2021-01-28,2009.0,Comedy,144.0,B
+544,Archer,4.0,2021-01-29,2009.0,Comedy,96.0,B
+545,Big Mouth,2.0,2021-01-30,2019.0,Comedy,60.0,B
+547,Dr Stone,3.0,2021-01-31,2019.0,Science Fiction,69.0,C
+548,WandaVision,3.0,2021-01-31,2021.0,Science Fiction,84.0,A
+549,Shingeki No Kyojin,1.0,2021-01-31,2018.0,Fantasy,23.0,S
+550,The Promised Neverland,1.0,2021-01-31,2019.0,Horror,23.0,B
+551,Dr Stone,3.0,2021-02-01,2019.0,Science Fiction,69.0,C
+552,Archer,1.0,2021-02-01,2009.0,Comedy,24.0,B
+554,Shingeki No Kyojin,1.0,2021-02-01,2021.0,Fantasy,23.0,S
+555,WandaVision,1.0,2021-02-02,2021.0,Science Fiction,30.0,A
+557,Shingeki No Kyojin,1.0,2021-02-02,2018.0,Fantasy,23.0,S
+559,Shingeki No Kyojin,2.0,2021-02-03,2018.0,Fantasy,46.0,S
+560,Archer,3.0,2021-02-04,2009.0,Comedy,72.0,B
+562,Family Guy,3.0,2021-02-04,1999.0,Comedy,69.0,B
+566,The Office,2.0,2021-02-06,2007.0,Comedy,44.0,B
+567,Family Guy,3.0,2021-02-07,1999.0,Comedy,69.0,B
+569,Shingeki No Kyojin,6.0,2021-02-07,2021.0,Fantasy,138.0,S
+570,Shingeki No Kyojin,2.0,2021-02-08,2021.0,Fantasy,46.0,S
+572,Shingeki No Kyojin,2.0,2021-02-10,2013.0,Fantasy,46.0,S
+573,Shingeki No Kyojin,3.0,2021-02-12,2013.0,Fantasy,69.0,S
+574,Shingeki No Kyojin,4.0,2021-02-13,2013.0,Fantasy,92.0,S
+575,Berserk,2.0,2021-02-14,1997.0,Fantasy,46.0,C
+576,Mushoku Tensei,5.0,2021-02-14,2021.0,Fantasy,115.0,A
+577,Mushoku Tensei,1.0,2021-02-16,2021.0,Fantasy,23.0,A
+578,Shingeki No Kyojin,5.0,2021-02-16,2019.0,Fantasy,115.0,S
+579,Shingeki No Kyojin,2.0,2021-02-17,2019.0,Fantasy,46.0,S
+581,Shingeki No Kyojin,2.0,2021-02-18,2018.0,Fantasy,46.0,S
+582,WandaVision,1.0,2021-02-19,2021.0,Science Fiction,38.0,A
+583,Mushoku Tensei,1.0,2021-02-21,2021.0,Fantasy,23.0,A
+584,Star Trek Discovery,3.0,2021-02-21,2017.0,Science Fiction,50.0,B
+585,Family Guy,3.0,2021-02-22,1999.0,Comedy,69.0,B
+586,Shingeki No Kyojin,5.0,2021-02-22,2021.0,Fantasy,115.0,S
+587,Shingeki No Kyojin,4.0,2021-02-23,2021.0,Fantasy,92.0,S
+589,Family Guy,3.0,2021-02-24,1999.0,Comedy,69.0,B
+590,Shingeki No Kyojin,2.0,2021-02-24,2021.0,Fantasy,46.0,B
+592,Shingeki No Kyojin,2.0,2021-02-25,2021.0,Fantasy,46.0,S
+593,Fleabag,2.0,2021-02-26,2016.0,Comedy,50.0,S
+595,Family Guy,2.0,2021-02-27,1999.0,Comedy,46.0,B
+596,Brooklyn Nine Nine,2.0,2021-02-27,2019.0,Comedy,44.0,B
+599,Brooklyn Nine Nine,1.0,2021-02-28,2015.0,Comedy,22.0,B
+600,Brooklyn Nine Nine,2.0,2021-03-01,2017.0,Comedy,44.0,B
+601,Veep,2.0,2021-03-01,2015.0,Comedy,52.0,B
+602,Brooklyn Nine Nine,2.0,2021-03-02,2017.0,Comedy,44.0,B
+603,Wonder Egg Priority,1.0,2021-03-03,2021.0,Fantasy,23.0,B
+604,Veep,3.0,2021-03-04,2015.0,Comedy,66.0,B
+606,WandaVision,1.0,2021-03-05,2021.0,Science Fiction,50.0,A
+607,Veep,3.0,2021-03-05,2015.0,Comedy,66.0,B
+608,Jujutsu Kaisen,1.0,2021-03-06,2021.0,Action,23.0,A
+609,Veep,2.0,2021-03-06,2015.0,Comedy,44.0,B
+610,Family Guy,4.0,2021-03-06,1999.0,Comedy,92.0,B
+613,Veep,2.0,2021-03-07,2015.0,Comedy,40.0,B
+616,Archer,1.0,2021-03-07,2009.0,Comedy,24.0,B
+617,Sex Education,2.0,2021-03-08,2019.0,Comedy,104.0,B
+618,American Dad,2.0,2021-03-08,2005.0,Comedy,46.0,B
+619,Veep,7.0,2021-03-08,2015.0,Comedy,161.0,B
+620,Shingeki No Kyojin,1.0,2021-03-08,20.0,Fantasy,23.0,S
+622,Sex Education,2.0,2021-03-09,2019.0,Comedy,104.0,B
+623,Sex Education,2.0,2021-03-10,2019.0,Comedy,104.0,B
+624,The Mandalorian,4.0,2021-03-10,2019.0,Science Fiction,160.0,B
+626,Sex Education,1.0,2021-03-11,2019.0,Comedy,52.0,B
+627,The Mandalorian,2.0,2021-03-11,2019.0,Science Fiction,80.0,B
+628,Jujutsu Kaisen,8.0,2021-03-12,2020.0,Fantasy,184.0,B
+629,Jujutsu Kaisen,1.0,2021-03-13,2020.0,Fantasy,23.0,B
+631,Archer,2.0,2021-03-14,2009.0,Comedy,48.0,B
+632,Mushoku Tensei,1.0,2021-03-15,2021.0,Fantasy,23.0,A
+634,Uzaki-chan wa Asobitai!,1.0,2021-03-18,2020.0,Slice of Life,23.0,B
+636,The Newsroom,2.0,2021-03-19,2012.0,Drama,120.0,C
+638,The Falcon and Winter Soldier,1.0,2021-03-20,2021.0,Action,40.0,B
+639,Russian Doll,3.0,2021-03-20,2018.0,Comedy,69.0,A
+640,Russian Doll,5.0,2021-03-21,2018.0,Comedy,150.0,A
+643,The Falcon and Winter Soldier,1.0,2021-03-27,2019.0,Adventure,55.0,B
+644,Search Party,2.0,2021-03-27,2016.0,Comedy,44.0,B
+645,Search Party,8.0,2021-03-28,2016.0,Comedy,176.0,B
+647,Invincible,3.0,2021-03-30,2021.0,Adventure,135.0,A
+650,Shingeki No Kyojin,3.0,2021-04-06,2021.0,Fantasy,69.0,S
+651,Fleabag,4.0,2021-04-07,2016.0,Comedy,100.0,S
+652,The Falcon and Winter Soldier,1.0,2021-04-07,2021.0,Adventure,55.0,B
+653,Fleabag,3.0,2021-04-08,2016.0,Comedy,75.0,S
+655,The Falcon and Winter Soldier,1.0,2021-04-11,2021.0,Adventure,55.0,B
+656,Invincible,1.0,2021-04-11,2021.0,Adventure,45.0,A
+659,Fleabag,3.0,2021-04-14,2016.0,Comedy,75.0,S
+661,Invincible,1.0,2021-04-17,2021.0,Adventure,45.0,A
+662,BoJack Horseman,2.0,2021-04-19,2014.0,Comedy,50.0,A
+663,Invincible,1.0,2021-04-19,2021.0,Adventure,45.0,A
+665,The Falcon and Winter Soldier,1.0,2021-04-24,2021.0,Adventure,55.0,B
+666,Invincible,2.0,2021-04-25,2021.0,Adventure,90.0,A
+667,Invincible,2.0,2021-04-26,2021.0,Adventure,90.0,A
+669,Jujutsu Kaisen,3.0,2021-05-01,2020.0,Adventure,69.0,A
+671,Jujutsu Kaisen,2.0,2021-05-02,2020.0,Fantasy,46.0,A
+672,Invincible,1.0,2021-05-02,2021.0,Adventure,45.0,S
+673,Uzaki-chan wa Asobitai!,1.0,2021-05-02,2020.0,Slice of Life,23.0,B
+674,Teenage Bounty Hunters,8.0,2021-05-08,2021.0,Comedy,400.0,A
+676,Archer,3.0,2021-05-09,2009.0,Comedy,72.0,B
+677,BoJack Horseman,3.0,2021-05-10,2014.0,Comedy,75.0,A
+678,Jujutsu Kaisen,8.0,2021-05-10,2020.0,Fantasy,184.0,A
+679,I've Been Killing Slimes for 300 Years and Maxed Out My Level,3.0,2021-05-11,2021.0,Comedy,66.0,B
+680,The Mandalorian,1.0,2021-05-11,2019.0,Science Fiction,40.0,B
+681,BoJack Horseman,10.0,2021-05-12,2014.0,Comedy,250.0,A
+682,The Mandalorian,1.0,2021-05-12,2019.0,Science Fiction,40.0,A
+683,BoJack Horseman,6.0,2021-05-13,2014.0,Comedy,150.0,A
+684,BoJack Horseman,3.0,2021-05-14,2014.0,Comedy,75.0,A
+685,"Love, Death and Robots",3.0,2021-05-15,2021.0,Science Fiction,30.0,B
+686,Haikyu,2.0,2021-05-15,2014.0,Sports,46.0,B
+689,Demon Slayer,1.0,2021-05-26,2020.0,Fantasy,23.0,A
+690,Demon Slayer,2.0,2021-05-27,2020.0,Fantasy,46.0,A
+692,Demon Slayer,2.0,2021-05-30,2019.0,Fantasy,46.0,A
+693,Demon Slayer,1.0,2021-06-01,2019.0,Fantasy,23.0,A
+694,Haikyu,1.0,2021-06-01,2015.0,Comedy,23.0,B
+695,Close Enough,1.0,2021-06-02,2021.0,Comedy,24.0,B
+696,Close Enough,1.0,2021-06-03,2021.0,Comedy,24.0,B
+697,Close Enough,2.0,2021-06-04,2021.0,Comedy,48.0,B
+698,Feel Good,1.0,2021-06-04,2021.0,Comedy,25.0,A
+699,Feel Good,5.0,2021-06-05,2021.0,Comedy,125.0,A
+702,BoJack Horseman,2.0,2021-06-08,2014.0,Comedy,50.0,A
+704,Demon Slayer,2.0,2021-06-09,2020.0,Fantasy,46.0,A
+706,BoJack Horseman,1.0,2021-06-12,2014.0,Comedy,25.0,A
+707,Loki,1.0,2021-06-12,2021.0,Science Fiction,50.0,A
+710,BoJack Horseman,2.0,2021-06-18,2014.0,Comedy,50.0,A
+712,Loki,1.0,2021-06-19,2021.0,Science Fiction,52.0,A
+714,BoJack Horseman,1.0,2021-06-20,2014.0,Comedy,25.0,S
+716,Demon Slayer,1.0,2021-06-21,2020.0,Fantasy,23.0,A
+717,Rick and Morty,1.0,2021-06-21,2013.0,Comedy,22.0,A
+718,BoJack Horseman,2.0,2021-06-22,2014.0,Comedy,50.0,S
+720,Total Drama Island,2.0,2021-06-23,2007.0,Comedy,44.0,B
+721,Total Drama Island,1.0,2021-06-24,2007.0,Comedy,22.0,B
+722,Archer,1.0,2021-06-24,2009.0,Comedy,24.0,B
+723,Demon Slayer,1.0,2021-06-24,2020.0,Fantasy,23.0,B
+725,Loki,1.0,2021-06-26,2021.0,Science Fiction,50.0,A
+727,Total Drama Island,1.0,2021-06-26,2007.0,Comedy,22.0,B
+729,Over the Moon for You,3.0,2021-06-28,2020.0,Slice of Life,69.0,B
+730,Seven Deadly Sins,2.0,2021-06-28,,Action,46.0,C
+731,Seven Deadly Sins,1.0,2021-06-29,,Action,23.0,C
+732,Over the Moon for You,3.0,2021-06-30,2020.0,Slice of Life,69.0,B
+734,Total Drama Island,2.0,2021-07-01,2007.0,Comedy,44.0,A
+736,Total Drama Island,2.0,2021-07-02,2007.0,Comedy,44.0,B
+737,Rick and Morty,1.0,2021-07-02,2013.0,Science Fiction,22.0,A
+740,Rick and Morty,1.0,2021-07-04,2013.0,Science Fiction,22.0,A
+742,Total Drama Island,4.0,2021-07-05,2007.0,Comedy,88.0,B
+743,Rick and Morty,1.0,2021-07-05,2013.0,Science Fiction,22.0,A
+744,Demon Slayer,1.0,2021-07-05,2020.0,Fantasy,23.0,B
